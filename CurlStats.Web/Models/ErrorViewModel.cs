@@ -1,4 +1,4 @@
-namespace CurlStats.Models;
+namespace CurlStats.Web.Models;
 
 public class ErrorViewModel
 {

@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using CurlStats.Models;
+using CurlStats.Web.Models;
 
-namespace CurlStats.Controllers;
+namespace CurlStats.Web.Controllers;
 
 public class HomeController : Controller
 {
